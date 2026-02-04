@@ -188,7 +188,7 @@ export default function ContactSection() {
                       href="tel:+919392905179"
                       className="text-lg font-semibold hover:text-accent transition-colors sm:text-xl"
                     >
-                      +91 93929 05179
+                      +91 9596103894
                     </a>
                   </div>
                 </div>
